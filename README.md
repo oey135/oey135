@@ -1,4 +1,7 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:accbee,100:e7f0fd&text=Welcome-nl-Seoyeon's%20Github!&animation=fadeIn&fontColor=78A5CC&fontSize=40&fontAlignY=35)
+
+<!-- <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=black"/> -->
+
 
 <!--
 **oey135/oey135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
