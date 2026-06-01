@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:accbee,100:e7f0fd&text=Welcome-nl-Seoyeon's%20Github!&animation=fadeIn&fontColor=78A5CC&fontSize=40&fontAlignY=35)
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oey135&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/oey135"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!-- <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=black"/> -->
 
 
